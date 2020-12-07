@@ -49,3 +49,4 @@ func readInput() ([]string, error) {
 }
 
 // ans for part 1 is 383
+// ans for part 2 is 272
